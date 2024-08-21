@@ -26,16 +26,16 @@ A simple API for managing tasks. This API allows you to create, update, retrieve
 
 ## Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/task-manager-api.git
    cd task-manager-api
 ```
-2. Install Dependencies
+### 2. Install Dependencies
 ```bash
 npm install
 ```
-3. Run the Server
+### 3. Run the Server
 ```bash
 node server.js
 ```
